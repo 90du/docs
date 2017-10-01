@@ -1,5 +1,5 @@
 # Rekols Developer Center
 
-* (四则运算表达式求值[转载])[expression_calculate.md]
+* (expression_calculate.md)[四则运算表达式求值[转载]]
 
-* (Qt获取系统信息)[get-system-info.md]
+* (get-system-info.md)[Qt获取系统信息]
